@@ -6,5 +6,5 @@
 
 2.分工：
 Baichuan Jiang: 学习如何使用unity，使用sora来生成相关的动图；
-Jiahong Zhan: 确定要使用的书籍pdf，规划交互方案，制作效果图。
+Jiahong Zhan: 确定要使用的书籍pdf，规划交互方案，制作效果图，设置声效。
 Han Zheng: 学习unity中动画制作，设计动画的基本形式，如图像出现、移动等；
